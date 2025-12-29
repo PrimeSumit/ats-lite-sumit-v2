@@ -8,7 +8,7 @@ ATS-Lite is a modern, enterprise-grade Applicant Tracking System that streamline
 
 ## 🔗 Live Demo
 
-[View Live Application]([https://ats-lite-sumit-v2.vercel.app/])
+[View Live Application](https://ats-lite-sumit-v2.vercel.app/)
 
 ## 📸 Screenshots
 
