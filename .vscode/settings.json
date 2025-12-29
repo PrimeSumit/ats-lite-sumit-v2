@@ -1,0 +1,5 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.defaultWebAppToDeploy": "/subscriptions/d51991bf-18e6-43c1-a364-0e4eda354de8/resourceGroups/ats-lite-sumit-v_group/providers/Microsoft.Web/sites/ats-lite-sumit-v2",
+  "appService.deploySubpath": ".next\\standalone"
+}
