@@ -32,12 +32,15 @@ https://ats-lite-sumit-v2.vercel.app/
 
 ![Login](./screenshots/LoginPage.png)
 
+### Demo Login
+Email: demo@atslite.com <br>
+password: demo123
+
 ## ✨ Core Features
 
 - Secure authentication using Supabase Auth
 - Kanban-style dashboard for tracking job applications
 - AI-powered resume parsing and candidate scoring
-- Azure App Service deployment with GitHub Actions CI/CD
 
 ## 🛠️ Technology Stack
 
